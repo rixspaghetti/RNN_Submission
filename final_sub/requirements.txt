@@ -1,0 +1,22 @@
+# Core notebook environment
+jupyter
+notebook
+
+# Data handling and utilities
+numpy
+pandas
+matplotlib
+
+# Deep learning / RNN
+tensorflow>=2.15.0
+
+# Dataset management
+datasets>=2.20.0  # Hugging Face datasets
+
+# Streamlit 
+streamlit>=1.39.0
+
+
+# File utilities
+requests
+urllib3
