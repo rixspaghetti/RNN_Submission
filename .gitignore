@@ -1,0 +1,26 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Model files & large files
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Cache & data
+artifacts/
+data/
+*.zip
+*.pickle
+*.pkl
+*.npz
+
+# MacOS
+.DS_Store
